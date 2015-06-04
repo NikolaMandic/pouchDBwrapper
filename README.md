@@ -1,0 +1,2 @@
+# pouchDBwrapper
+pouchdbclojurescript wrapper
